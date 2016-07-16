@@ -3,6 +3,8 @@ Hackathon Xilinx Pynq
 
 ***Tech it easy***
 
+![](https://github.com/GiadaColella/XPH16/blob/master/logo.jpg)
+
 Hello everyone! We are glad to introduce you to the devide that we've just implemented.
 In this code we will recognize the levels of stress of a person using the GPR sensor and the ZYBO board.
 We will use the samples to plot a graphic that shows the trend of stress (even when you are listening to some relaxing music!)
