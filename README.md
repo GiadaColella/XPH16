@@ -14,7 +14,8 @@ The code is written in Python.
 ###Contents:
 
 ***Techiteasy_project*** is the file that contains the code.
-
+***Salvataggio*** is the file that contains the code to save an audio file. 
+***audiorelax1*** is an audio file. You can use it to run and try the code.
 
 ###Getting started:
 * Make sure you have a ZYBO board, a GSR-sensor, and a double Headphone jack
